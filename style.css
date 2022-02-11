@@ -177,14 +177,14 @@ footer {
   margin-top: 45px;
   padding: 20px;
 }
-
-/* Translate,Transform,Scale,Skew */
+/* 
+ Translate,Transform,Scale,Skew 
 .translateX {
   transform: translateX(20px);
 }
 
 .translateY {
-  /* percent values are of the element's width */
+ percent values are of the element's width 
   transform: translateY(-33%);
 }
 
@@ -204,7 +204,7 @@ img {
   padding: 20px;
   margin-right: auto;
 }
-/* Rotate */
+ Rotate 
 
 .rotate-by-deg {
   transform: rotate(45deg);
@@ -221,8 +221,8 @@ img {
 p {
   margin-bottom: 30px;
 }
-/* End of rotate */
-/* Scale */
+ End of rotate 
+ Scale 
 .scaleX {
   transform: scaleX(0.25);
 }
@@ -235,9 +235,9 @@ p {
   transform: scale(0.25, 1.5);
 }
 
-/* End of scale */
+ End of scale 
 
-/* Skew */
+ Skew 
 .skewX {
   transform: skewX(45deg);
   width: 50px;
@@ -272,4 +272,6 @@ p {
 .blue-box {
   background: blue;
   transform: translate(200%) rotate(45deg);
-}
+} 
+
+*/
